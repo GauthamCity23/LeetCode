@@ -8,7 +8,7 @@ class Solution:
         3) This works, cause if we ever go negative, that means we have a new canidate
             --> Because negative means not majority
         4) Return Final r value
-        '''
+        ''' 
 
         r = nums[0]
         c = 0
