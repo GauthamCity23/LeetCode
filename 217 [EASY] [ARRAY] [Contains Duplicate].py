@@ -1,4 +1,4 @@
-class Solution:
+class Solution: 
     def hasDuplicate(self, nums: List[int]) -> bool:
         '''
         Idea: 

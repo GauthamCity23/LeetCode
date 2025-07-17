@@ -1,4 +1,4 @@
-class Solution:
+class Solution: 
     def isValid(self, s: str) -> bool:
 
         '''
